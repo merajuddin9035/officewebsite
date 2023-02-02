@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "Google",
+      "location": "Mountain View, CA",
+      "description": "We are looking for a highly motivated software engineer to work on the development of new features and maintenance of our existing products. The ideal candidate has experience with Java and Python, and is familiar with Agile development methodologies.",
+      "apply_url": "https://careers.google.com/jobs/results/1234-software-engineer"
+    },
+    {
+      "id": 2,
+      "title": "Front-End Developer",
+      "company": "Facebook",
+      "location": "Menlo Park, CA",
+      "description": "We are seeking a talented front-end developer to join our team. The ideal candidate has experience with React and JavaScript, and is able to create clean, responsive user interfaces. This is an exciting opportunity to work on one of the most widely-used platforms in the world.",
+      "apply_url": "https://www.facebook.com/careers/jobs/front-end-developer"
+    },
+    {
+      "id": 3,
+      "title": "Software Development Manager",
+      "company": "Amazon",
+      "location": "Seattle, WA",
+      "description": "We are looking for an experienced software development manager to lead a team of developers working on our e-commerce platform. The ideal candidate has a strong background in software development and experience leading teams in an Agile environment.",
+      "apply_url": "https://www.amazon.jobs/en/jobs/1357-software-development-manager"
+    }
+  ]
+  

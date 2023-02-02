@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .search-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-form input {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px 0 0 5px;
+    border: none;
+    border-right: 1px solid #ccc;
+  }
+  
+  .search-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+  }
+  
+  .job-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .job-item {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  .job-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .job-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .company-name {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .job-location {
+    font-style: italic;
+  }
+  
+  .job-description {
+    margin-bottom: 10px;
+  }
+  
+  .apply-button {
+    display: block;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  /* CSS for software jobs and web developer jobs */
+.software-jobs, .web-developer-jobs {
+    background-color: #e6dada;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .software-jobs h2, .web-developer-jobs h2 {
+    margin-bottom: 20px;
+  }
+  
+  .job-item {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+  }
+  
+  .apply-button {
+    display: block;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  .container,welcome {
+    display: block;
+    padding: 10px;
+    background-color: #af604c;
+    color: rgb(16, 15, 15);
+    
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  
+  

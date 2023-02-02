@@ -1,0 +1,59 @@
+.contacts-section {
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  .contacts-section h2 {
+    margin-bottom: 20px;
+  }
+  
+  .contacts-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .contacts-section .contact-label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .contacts-section .contact-info {
+    color: blue;
+  }
+  .contacts-section a:hover {
+    color: red;
+    text-decoration: underline;
+  }
+  .contacts-section li {
+    margin-bottom: 10px;
+  }
+  .contacts-section {
+    background-image: url(path/to/image.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  .contacts-section {
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+  }
+  @media only screen and (max-width: 768px) {
+    .contacts-section {
+      padding: 10px;
+    }
+    .contacts-section h2 {
+      font-size: 1.5em;
+    }
+  }
+  .contacts-section {
+    animation: fade-in 1s ease;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+       
